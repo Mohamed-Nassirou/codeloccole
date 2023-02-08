@@ -1,5 +1,5 @@
 let x = 5;
-let y = 6;
-let z = 7;
+let y = 10;
+let z = 15;
 let a = x*y*z;
 console.log(a);
